@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-07-10T16:25:16-04:00</updated><id>//</id><title type="html">Missing Maps</title><entry xml:lang="en"><title type="html">PADF in Guatemala</title><link href="/blog/2017/03/30/padf-in-guatemala/" rel="alternate" type="text/html" title="PADF in Guatemala" /><published>2017-03-30T00:00:00-04:00</published><updated>2017-03-30T00:00:00-04:00</updated><id>/blog/2017/03/30/padf-in-guatemala</id><content type="html" xml:base="/blog/2017/03/30/padf-in-guatemala/">&lt;h2 id=&quot;project-background&quot;&gt;Project Background&lt;/h2&gt;
+&lt;p&gt;Faculty and students at the George Washington University (GWU), including AGS President Marie Price, teamed up with the Pan American Development Foundation (PADF) this March to bring digital mapping tools to vulnerable communities in Guatemala. The goal is to make life-saving information available to local planners, humanitarian aid workers and the community members themselves.&lt;/p&gt;
+&lt;h2 id=&quot;motivations-for-mapping&quot;&gt;Motivations for Mapping&lt;/h2&gt;
+&lt;p&gt;“Many urban informal communities are literally not on the map, so when emergencies happen they are hard to assist,” says Marie Price. “Mapping and surveying these areas improve our understanding of life threatening conditions and identify households that face the greatest risk.”  Price worked with colleague Dr. Nuala Cowan, who is an Assistant Professor at GWU and a leader in using open source data and tools for humanitarian purposes.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img style=&quot;display: block;margin:auto; &quot; src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_pricecowan.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Dr. Nuala Cowan and Dr. Marie Price with community members&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Geography Masters students Andrii Berdnyk and Sudie Brown developed workshops and surveys with PADF staff as part of their capstone project.  These materials were shared with colleagues at the University of Rafael Landívar as well as with community members from Ciudad Satélite in the Municipality of Mixco.&lt;/p&gt;
+&lt;h2 id=&quot;mapping-workflow&quot;&gt;Mapping Workflow&lt;/h2&gt;
+
+&lt;p&gt;The project began with students at the George Washington University remotely tracing buildings and roads in Ciudad Satélite from satellite imagery on to Open Street Map.  When in Guatemala, the research team worked with community members to validate and correct the maps using field papers.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img style=&quot;display: block;margin:auto; &quot; src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_communitymembers.jpg&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Community members field validation&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Community members conducted surveys on the status of buildings as well as talked to household members to understand the threats faced by residents and the resources that they had to combat them.&lt;/p&gt;
+
+&lt;p&gt;The maps and information were then shared with the community for planning purposes.  By the end of the week, a community that was virtually invisible on Google Maps was fully mapped on Open Street Map (OSM).
+In addition, the research team worked with students and faculty at Rafael Landívar University to trace buildings and roads using OSM, to use mobile phone-based survey tools to collect information on household vulnerability, infrastructure and disaster preparedness.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img style=&quot;display: block;margin:auto; &quot; src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170330_unimapping.jpg&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;Students and Faculty at Rafael Landívar University&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;guatemala-project&quot;&gt;Guatemala Project&lt;/h2&gt;
+
+&lt;p&gt;PADF is currently implementing a disaster risk reduction project in Guatemala funded by Taiwan and is expected to facilitate the identification of communities most vulnerable to natural hazards, especially floods and landslides.  Faculty and staff from GWU got involved to pilot this innovative community mapping initiative using open source platforms.&lt;/p&gt;
+
+&lt;p&gt;“By putting open-data mapping technologies into the hands of local students, researchers and members of these communities themselves, we are building grassroots capacity,” says Aaron Van Alstine, Senior Programs Manager at PADF. “We’re empowering communities to take a leading role in preparing for disasters.”&lt;/p&gt;
+
+&lt;p&gt;For more information about PADF’s mapping projects, visit &lt;a href=&quot;https://padf.org/mapping]&quot;&gt;padf.org/mapping&lt;/a&gt;.
+See the original &lt;a href=&quot;https://padf.org/news/2017/3/22/promoting-community-mapping-and-open-source-platforms-in-guatemala&quot;&gt;PADF blog post&lt;/a&gt; and the post in the &lt;a href=&quot;http://us10.campaign-archive1.com/?u=023a4ebf81fd06583f67b9f62&amp;amp;id=c2624963e5&amp;amp;e=[UNIQID]&quot;&gt;American Geographical Society newsletter&lt;/a&gt;.&lt;/p&gt;</content><author><name>George Washington University</name></author><category term="blog" /><category term="Partners" /><category term="PADF" /><summary type="html">Faculty and students at the George Washington University teamed up with the Pan American Development Foundation (PADF) this March to bring digital mapping tools to vulnerable communities in Guatemala.</summary></entry><entry xml:lang="en"><title type="html">#ValidationFriday</title><link href="/blog/2017/03/03/validation-friday/" rel="alternate" type="text/html" title="#ValidationFriday" /><published>2017-03-03T00:00:00-05:00</published><updated>2017-03-03T00:00:00-05:00</updated><id>/blog/2017/03/03/validation-friday</id><content type="html" xml:base="/blog/2017/03/03/validation-friday/">&lt;h2 id=&quot;validationfriday&quot;&gt;#ValidationFriday&lt;/h2&gt;
+
+&lt;p&gt;Since the start of the Missing Maps Project in 2014, there have been over 20,000 remote contributors mapping some of the most vulnerable communities in the world. All of the data created as part of this process is extremely valuable to the organizations who have requested it. One question commonly asked however, is about data quality.&lt;/p&gt;
+
+&lt;p&gt;In our opinion, one of the greatest features of the &lt;a href=&quot;http://tasks.hotosm.org&quot;&gt;Humanitarian OpenStreetMap Team (HOT) Tasking Manager&lt;/a&gt; is the idea of validation. As the number of volunteers that HOT provides this great service for grows, providing positive feedback to new mappers and catching any mistakes that all new mappers make early on is critical to retaining mappers and ensuring quality data for the communities being mapped.&lt;/p&gt;
+
+&lt;p&gt;User &lt;code class=&quot;highlighter-rouge&quot;&gt;dekstop&lt;/code&gt;, Martin Dittus, recently wrote a &lt;a href=&quot;https://www.openstreetmap.org/user/dekstop/diary/40421&quot;&gt;blog post&lt;/a&gt; highlighting the impact of positive feedback on recently mapped tasks for retaining new mappers. We’re all looking forward to reading the full paper!&lt;/p&gt;
+
+&lt;p&gt;As an OSM user who creates HOT tasks, I constantly get messages from invested mappers who want to make sure they’re mapping correctly. I &lt;strong&gt;LOVE&lt;/strong&gt; getting messages from users that show genuine interest in a project and are looking for ways to make sure they are making the most of their contribution to OpenStreetMap and the Missing Maps Project.&lt;/p&gt;
+
+&lt;p&gt;I’ve also seen some negative messages and feedback. Everyone was once a new mapper, but it’s important to remember that if we want mappers to continue mapping and to improve the quality of data, condescension and negative comments won’t get us there. Let’s remember that we are part of a community of over 3,000,000 contributors and we all want to make a better OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;Currently there are nearly 500 Missing Maps projects. The tasks within them are, on average, 90% percent marked as done, yet the validation average comes in at just under 50%. &lt;strong&gt;We can do better.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-we-do&quot;&gt;What can we do?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask questions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a number of avenues for requesting mapping assistance. To start:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Message the project creator on the tasking manager. You can also leave comments in your task before you mark it as done or unlock it.&lt;/li&gt;
+  &lt;li&gt;Sign up for and send a message on the &lt;a href=&quot;https://lists.openstreetmap.org/listinfo/hot&quot;&gt;HOT Mailing List&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Sign up for the new &lt;a href=&quot;https://hotosm-slack.herokuapp.com/&quot;&gt;HOT Slack Community&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s a two way street&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re a validator and you see a mapper doing a great job, reach out to them! Tell them they’ve got the hang of things and suggest that they start validating some simpler tasks.&lt;/p&gt;
+
+&lt;p&gt;Remember all those great badges you can earn on your &lt;a href=&quot;http://www.missingmaps.org/users/#/&quot;&gt;Missing Maps User Profile&lt;/a&gt;? We’re going to start reaching out to those users who have soared to great heights and have been earning their &lt;code class=&quot;highlighter-rouge&quot;&gt;Task Champion&lt;/code&gt; badges, so that we can encourage users to start validating.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_validation-badges.png&quot; alt=&quot;Earn your Task Champion and Scrutinizer Badges!&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Earn your Task Champion and Scrutinizer Badges!&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Ask more questions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a great community willing to help you learn! See the list above about how to get in touch!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Check out resources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the coming weeks and months, a number of resources will be released by members of the Missing Maps community. Use these, give feedback, and ASK QUESTIONS. We’ll be sure to share them far and wide, as well as keep them safe and sound here on the Missing Maps website. There’s already a few resources available to help you out!&lt;/p&gt;
+
+&lt;p&gt;How to Validate in iD Editor:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2h12CKnvK38&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;We’ve also created a &lt;a href=&quot;https://github.com/MissingMaps/josm_styles&quot;&gt;validation style for JOSM&lt;/a&gt; that you can download and apply to your downloaded area; it highlights some common issues to look out for when validating. Follow the instructions on the GitHub link to get started.&lt;/p&gt;
+
+&lt;p&gt;And on that note…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn JOSM!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://josm.openstreetmap.de/&quot;&gt;Java OpenStreetMap Editor (JOSM)&lt;/a&gt; is a desktop editor for OSM and it will CHANGE. YOUR. LIFE. With helpful plugins and tools like the &lt;code class=&quot;highlighter-rouge&quot;&gt;Buildings Tool&lt;/code&gt; and the &lt;code class=&quot;highlighter-rouge&quot;&gt;Validation Tool&lt;/code&gt;, tasks that can be somewhat tedious in iD Editor become easier by leaps and bounds.&lt;/p&gt;
+
+&lt;p&gt;There is a fantastic walkthrough at &lt;a href=&quot;http://learnosm.org/en/josm/&quot;&gt;LearnOSM&lt;/a&gt; about learning JOSM. Spend a couple hours this weekend getting to know it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;#ValidationFriday&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, make time to validate. Earlier this year, we started #ValidationFriday. We use it as a reminder on every Friday to set aside some time to help validate a handful of tasks, giving positive and timely feedback to users. There are any number of great projects to choose from on the &lt;a href=&quot;http://tasks.hotosm.org&quot;&gt;Tasking Manager&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Find a simple &lt;code class=&quot;highlighter-rouge&quot;&gt;buildings only&lt;/code&gt; task, read the instructions, square buildings, align them with imagery and ask for feedback on your validation. I’ve seen several instances of users starting to validate, and then asking another user either on the mailing list or Slack channel to check their work. That’s okay, in fact, I encourage that.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-be-afraid-to-say-hi&quot;&gt;Don’t Be Afraid to Say “Hi”&lt;/h2&gt;
+
+&lt;p&gt;There’s a great community of Missing Map-ers who are ready to help you learn to validate. We all have the goal of improving maps for vulnerable communities, and we all come to the greater OSM community with different levels of experience. Let’s start validating and remember the wise words of Uncle Ben, “With great tasks, comes great validation.”&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170303_keep-calm-small.png&quot; alt=&quot;Validate&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Don't forget to Keep Calm and Validate!&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Matt Gibb</name></author><category term="blog" /><category term="HOT" /><category term="task" /><category term="Validation" /><summary type="html">Validating tasks is an important part in the Missing Maps process, and we encourage everyone to take part. Learn how you can improve your mapping and contribute to validation! #ValidationFriday</summary></entry><entry xml:lang="en"><title type="html">POSM Cloud</title><link href="/blog/2017/02/24/posm-cloud/" rel="alternate" type="text/html" title="POSM Cloud" /><published>2017-02-24T00:00:00-05:00</published><updated>2017-02-24T00:00:00-05:00</updated><id>/blog/2017/02/24/posm-cloud</id><content type="html" xml:base="/blog/2017/02/24/posm-cloud/">&lt;h2 id=&quot;posm-guides&quot;&gt;POSM Guides&lt;/h2&gt;
+
+&lt;p&gt;This is the first of several post that we will be releasing in the next few weeks and months to better document Portable OSM. We use POSM extensively in our work and more and more people have asked how they can get started. This guide will cover how to get POSM up and running on an Amazon EC2 instance. Future guides will walkthrough how to install POSM on an Intel NUC and our model and methods for doing large scale OSM field data collection.&lt;/p&gt;
+
+&lt;h2 id=&quot;running-posm-in-the-cloud&quot;&gt;Running POSM in the Cloud&lt;/h2&gt;
+
+&lt;p&gt;Interested in running POSM in the cloud? This type of setup is great for semi-connected instances when you want the integration of OpenMapKit/Field Papers/OSM but have more regular connectivity with your surveyors.&lt;/p&gt;
+
+&lt;p&gt;First, this guide will walk through how to set things up in Amazon Web Services, specifically EC2. If you like another flavor or cloud services such as Azure, this process will still work but may look slightly different. This guide will also &lt;em&gt;not&lt;/em&gt; show you how to get an AWS account, they already have great &lt;a href=&quot;http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-a-fully-qualified-domain-name&quot;&gt;Get a Fully Qualified Domain Name&lt;/h2&gt;
+&lt;p&gt;Before installation, you should choose a domain name and host to use to access your new POSM and configure it with your DNS provider. If you don’t do this, you won’t be able to access the OpenStreetMap interface.&lt;/p&gt;
+
+&lt;p&gt;Create the subdomain &lt;code class=&quot;highlighter-rouge&quot;&gt;osm.example.org&lt;/code&gt; . You’ll configure the DNS later.&lt;/p&gt;
+
+&lt;h2 id=&quot;instance-setup&quot;&gt;Instance Setup&lt;/h2&gt;
+
+&lt;p&gt;The first thing you will need to do is start a new instance. In your AWS EC2 Dashboard click on Launch instance. Scroll all the way down and find Ubuntu 14.04 LTS. The posm-build process only works on Ubuntu 14.04 at this time.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://i.imgur.com/i7i2ogE.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Be sure the chose Ubuntu 14.04 LTS&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After selecting your instance type you’ll need to fill out a couple more things. Below are the recommended specs.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://i.imgur.com/nZG3h71.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Pick the instance that works for you&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Recommended specs for your instance are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ubuntu 14.04 &lt;strong&gt;&lt;em&gt;mandatory&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;At least 2GB RAM, 8GB+ preferred
+    &lt;ul&gt;
+      &lt;li&gt;If you use less than 8GB, you will not be able to run the OSM part of POSM. OpenMapKit Server runs happily on 2GB.&lt;/li&gt;
+      &lt;li&gt;If using SuperPOSM (OpenDroneMap), the more RAM the better&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;At least 10GB of attached storage
+    &lt;ul&gt;
+      &lt;li&gt;Not an issue unless you have lots of photos or will be processing OpenDroneMap images&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Open ports 22 and 80
+    &lt;ul&gt;
+      &lt;li&gt;22 is needed to SSH into the server for administration and setup&lt;/li&gt;
+      &lt;li&gt;80 is needed to view the various resources&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Our internal instance runs on a t3.medium with 8GB of RAM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;configure-dns&quot;&gt;Configure DNS&lt;/h2&gt;
+
+&lt;p&gt;After the instance is created, also create an elastic IP and assign it to the instance you just created. AWS has a &lt;a href=&quot;http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html#working-with-eips&quot;&gt;great guide&lt;/a&gt; for this.&lt;/p&gt;
+
+&lt;p&gt;Now configure the DNS. Create an @ record and point it to the IP address that you just created and assigned to your instance.&lt;/p&gt;
+
+&lt;p&gt;Sample DNS records:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;example.org     A     1.2.3.4
+osm.example.org CNAME example.org
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;install-posm&quot;&gt;Install POSM&lt;/h2&gt;
+
+&lt;p&gt;POSM Cloud uses posm-build to install because the live ubuntu instance for physical devices doesn’t work. The process take a little longer and requires a little bit of command line knowledge.&lt;/p&gt;
+
+&lt;p&gt;To configure POSM on your cloud host, &lt;a href=&quot;http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html&quot;&gt;connect to it&lt;/a&gt; using &lt;code class=&quot;highlighter-rouge&quot;&gt;ssh&lt;/code&gt; and run the following commands.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# become root&lt;/span&gt;
+sudo -i
+
+&lt;span class=&quot;c&quot;&gt;# update instance for security patches&lt;/span&gt;
+apt-get install update &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; apt-get install upgrade
+
+&lt;span class=&quot;c&quot;&gt;# install git if necessary&lt;/span&gt;
+apt update &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; apt install --no-install-recommends -y git
+
+&lt;span class=&quot;c&quot;&gt;# clone this repository&lt;/span&gt;
+git clone https://github.com/AmericanRedCross/posm-build
+
+&lt;span class=&quot;c&quot;&gt;# edit your settings (posm_hostname, posm_domain)&lt;/span&gt;
+vi posm-build/kickstart/etc/settings
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The important things to edit are &lt;em&gt;posm_hostname&lt;/em&gt; and &lt;em&gt;posm_domain&lt;/em&gt;. Set these equal to your hostname and domain that your purchased earlier. You can comfortably ignore all the wifi settings.&lt;/p&gt;
+
+&lt;p&gt;If you are not comfortable with editing files via command line here is a quick guide to using &lt;a href=&quot;https://www.cs.colostate.edu/helpdocs/vi.html&quot;&gt;vi&lt;/a&gt;. The important thing is to hit &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt; to edit and then after making changes hit &lt;code class=&quot;highlighter-rouge&quot;&gt;ESC&lt;/code&gt; and then &lt;code class=&quot;highlighter-rouge&quot;&gt;:&lt;/code&gt; and type &lt;code class=&quot;highlighter-rouge&quot;&gt;wq&lt;/code&gt; to “write and quit”&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://i.imgur.com/uSo3ZCU.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Adjust posm_hostname and posm_domain&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The last thing is to install everything. This will take a while; go get a snack and come back.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/root/posm-build/kickstart/scripts/bootstrap.sh base virt nodejs ruby gis mysql postgis nginx osm fieldpapers omk tl carto tessera admin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;The above command will install everything needed to run POSM Cloud but &lt;em&gt;will not install&lt;/em&gt; OpenDroneMap.&lt;/p&gt;
+
+&lt;p&gt;To add SuperPOSM capabilities (OpenDroneMap + GeoTIFF processing), use the following instead.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/root/posm-build/kickstart/scripts/bootstrap.sh base virt nodejs ruby gis mysql postgis nginx osm fieldpapers omk tl carto tessera admin docker redis opendronemap imagery
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;omk-server-settings&quot;&gt;OMK Server Settings&lt;/h2&gt;
+
+&lt;p&gt;OpenMapKit server does not apply authentication out of the box; you will need to set it up to ensure that sensitive information cannot be viewed on your cloud instance. This step requires more command line knowledge.&lt;/p&gt;
+
+&lt;p&gt;If the POSM cloud install was successful, then you should now be able edit your OMK server settings. You will need to uncomment the lines starting with “auth” and add in the credentials you would like.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo vi /opt/omk/OpenMapKitServer/settings.js
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Your screen should looks something like this. &lt;strong&gt;Notice the added comma after the last &lt;code class=&quot;highlighter-rouge&quot;&gt;}&lt;/code&gt; for osmApi&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://i.imgur.com/uNfakt8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Adding auth for OMK Server&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After saving, just reboot your server and authentication should be working when you go to OMK Server.&lt;/p&gt;
+
+&lt;h2 id=&quot;success&quot;&gt;Success&lt;/h2&gt;
+
+&lt;p&gt;After everything is configured you can go to your domain and you should see the following screen.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://i.imgur.com/7yr7hfy.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Success&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="POSM guides" /><summary type="html">Portable OpenStreetMap (POSM) can run in the cloud. This walkthrough will help you get your own POSM up and running on Amazon EC2.</summary></entry><entry xml:lang="en"><title type="html">Fighting FGM in Tanzania</title><link href="/blog/2017/02/20/fighting-fgm-in-tanzania/" rel="alternate" type="text/html" title="Fighting FGM in Tanzania" /><published>2017-02-20T00:00:00-05:00</published><updated>2017-02-20T00:00:00-05:00</updated><id>/blog/2017/02/20/fighting-fgm-in-tanzania</id><content type="html" xml:base="/blog/2017/02/20/fighting-fgm-in-tanzania/">&lt;h2 id=&quot;fighting-fgm-in-tanzania&quot;&gt;Fighting FGM in Tanzania&lt;/h2&gt;
+
+&lt;p&gt;I first met &lt;a href=&quot;http://hiaragirlpower.blogspot.co.uk/2014/09/rhobis-story-why-she-cares-so.html&quot;&gt;Rhobi&lt;/a&gt; in a building site in Mugumu, Serengeti,  Tanzania, in September 2014 where she was desperately trying to get a Safe House for girls refusing &lt;a href=&quot;http://www.who.int/mediacentre/factsheets/fs241/en/&quot;&gt;Female Genital Mutilation&lt;/a&gt; finished before the “cutting season” started in December.  In the week we spent together I accompanied her and her team as they visited the surrounding villages, telling the villagers the dangers of FGM through debates, drama and dance.  Rhobi almost &lt;a href=&quot;http://hiaragirlpower.blogspot.co.uk/2014/09/rhobis-story-why-she-cares-so.html&quot;&gt;bled to death&lt;/a&gt; from FGM in one of these villages as a 13 year old and has been a passionate advocate for womens’ rights ever since.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_girlwsign.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As we bounced along the dusty tracks in a rusty over crowded car, frequently getting lost and stopping to ask for directions, I was frustrated by everyone’s complete lack of maps.  I had been inspired to learn about Openstreetmap at &lt;a href=&quot;https://wikimania2014.wikimedia.org/wiki/Programme&quot;&gt;Wikimania&lt;/a&gt; London the previous month, and had even printed out basic maps to ask Rhobi to mark villages on before I visited.  That was a failure, as was my mapping attempts that time.  No one I met had a good understanding of where the villages were on paper and I was thwarted by poor connectivity and inadequate tools or understanding.   Later on my trip I was amazed to find my GPS at Zeze, and village of 9000 people showed a completely blank map.  I was 2 hours late visiting Ikondo School after driving round in circles through muddy rivers in torrential rain trying to find it.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_communitymeeting.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At &lt;a href=&quot;https://mozillafestival.org/&quot;&gt;Mozfest&lt;/a&gt; in October 2015 I met &lt;a href=&quot;https://www.linkedin.com/in/eglemarija/&quot;&gt;Egle&lt;/a&gt;, a citizen science expert talking about mapping the locations of water points and other objects using &lt;a href=&quot;http://plus.epicollect.net/TDTschoolsResourceMap/Resources?Resources_key=&quot;&gt;EpiCollect&lt;/a&gt;. I told her of our need to map village locations. She was shocked to learn that the online maps were still so poor in places like rural Tanzania, and together we started &lt;a href=&quot;https://crowd2map.wordpress.com/&quot;&gt;Crowd2Map&lt;/a&gt;, a crowdsourced mapping project, using remote and local mappers.&lt;/p&gt;
+
+&lt;p&gt;When &lt;a href=&quot;http://maps.me/en/home&quot;&gt;Maps.Me&lt;/a&gt; produced their version that allowed edits into Openstreetmap we started using it instead, including developing a Swahili version.  We held a mapping party in Dar es Salaam, with &lt;a href=&quot;http://ramanihuria.org/&quot;&gt;Ramani Huria&lt;/a&gt;, London, &lt;a href=&quot;https://technarium.lt/&quot;&gt;Vilnius&lt;/a&gt; and the &lt;a href=&quot;https://www.facebook.com/MugumuSafeHouse/?fref=ts&quot;&gt;Safe House&lt;/a&gt; in May 2016.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_mapathon.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We’ve now recruited over 900 online volunteers and 199 local mappers.  In our 2 &lt;a href=&quot;http://tasks.hotosm.org/project/1788&quot;&gt;HOT tasks&lt;/a&gt; in Mara region 696 mappers have mapped an area of 14,248 square kilometres and added 5 towns and 169 villages and hamlets.  We’ve also added 42,128 km of roads and tracks and 700,000 buildings..   Countrywide we have added 12,294 schools and  162 clinics to Openstreetmap from &lt;a href=&quot;http://opendata.go.tz/&quot;&gt;government open data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_girlsatcomputers.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;When I visited the Safe House for the 5th time in  December 2016 I took out a printed map.  This, together with Maps.Me on Rhobi’s phone meant that when a phone call came in saying “there is a girl in &lt;a href=&quot;http://www.openstreetmap.org/node/4527206595&quot;&gt;Sogoti&lt;/a&gt; village who needs rescuing from cutting tonight” she knew where to go.&lt;/p&gt;
+
+&lt;p&gt;Having better maps helped prevent 2257 girls from being cut this year.  However change is a slow process.  1076 girls were cut, down from 3700 the previous year, and 4 girls died, down from 12 last year.  There is an interactive map showing the location of FGM incidents &lt;a href=&quot;https://jachapman82.carto.com/builder/4324bc10-f250-11e6-9d00-0ee66e2c9693/embed&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Girls like Bhoke* forcibly cut at 13, her body &lt;a href=&quot;http://hiaragirlpower.blogspot.co.uk/2015/01/5-girls-bodies-thrown-into-bush.html&quot;&gt;thrown into the bush&lt;/a&gt;.  But the tide is turning.  This year saw the first prosecutions against parents and cutters for FGM.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_infographic.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Safe House sheltered over 200 girls this year.  Girls like &lt;a href=&quot;https://www.youtube.com/watch?v=-A2HB0XGHvs&quot;&gt;Jackline&lt;/a&gt; were saved from being cut and married off against their will.  Now she can pursue her dream to become a teacher.&lt;/p&gt;
+
+&lt;p&gt;There is more information about this project in this &lt;a href=&quot;https://www.facebook.com/ajplusenglish/videos/873491619459013/&quot;&gt;2 minute video on Al Jazeera&lt;/a&gt;, and this article in &lt;a href=&quot;https://www.theguardian.com/society/2017/feb/06/online-mapping-tool-gives-fgm-runaways-a-path-to-help?CMP=twt_a-world_b-gdnworld&quot;&gt;The Guardian&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Local mappers are continuing to improve the map by adding the names of missing villages across Tanzania, but we are a volunteer run project with no budget and access to smartphones is a limiting factor.  If anyone has any unwanted phones we can make very good use of them!  Please contact us &lt;a href=&quot;https://crowd2map.wordpress.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20170220_map.png&quot; alt=&quot;&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC BY-SA Janet Chapman, &lt;a target=&quot;_blank&quot; href=&quot;https://jachapman82.carto.com/builder/4324bc10-f250-11e6-9d00-0ee66e2c9693/embed&quot;&gt;web map&lt;/a&gt;&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Janet Chapman</name></author><category term="blog" /><category term="Tanzania" /><summary type="html">I first met Rhobi in a building site in Mugumu, Serengeti,  Tanzania, in September 2014 where she was desperately trying to get a Safe House for girls refusing Female Genital Mutilation finished before the &quot;cutting season&quot; started in December.  In the week we spent together I accompanied her and her team as they visited the surrounding villages, telling the villagers the dangers of FGM through debates, drama and dance.  Rhobi almost bled to death from FGM in one of these villages as a 13 year old and has been a passionate advocate for womens' rights ever since.</summary></entry><entry xml:lang="en"><title type="html">West Africa Project End</title><link href="/blog/2017/01/24/west-africa-mapping-hub-end/" rel="alternate" type="text/html" title="West Africa Project End" /><published>2017-01-24T00:00:00-05:00</published><updated>2017-01-24T00:00:00-05:00</updated><id>/blog/2017/01/24/west-africa-mapping-hub-end</id><content type="html" xml:base="/blog/2017/01/24/west-africa-mapping-hub-end/">&lt;p style=&quot;text-align: center;&quot;&gt; &lt;i&gt;The final report for the West Africa Mapping Hub is available for download &lt;a href=&quot;https://arcmaps.s3.amazonaws.com/share/West%20Africa%20Mapping%20Hub/RedCross_WestAfrica_FinalReport_public.pdf&quot;&gt;here&lt;/a&gt; (6 MB) &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;2016 was a busy year for the the American Red Cross and the Missing Maps project. Community-led mapping projects took place in &lt;a href=&quot;http://www.missingmaps.org/blog/2015/03/29/riohacha-colombia/&quot;&gt;Colombia&lt;/a&gt;, Ecuador, and &lt;a href=&quot;http://www.missingmaps.org/blog/2016/06/07/zimbabwe/&quot;&gt;Zimbabwe&lt;/a&gt;. Our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that experienced the worst of the Ebola crisis in 2014 and 2015. Here’s a snapshot of what the volunteers accomplished:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/westafrica_stats_horizontal.jpg&quot; alt=&quot;Quick stats&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A few West Africa stats at a glance. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;First and foremost, this project could not have been possible without the dedication of the Red Cross volunteers in Liberia, Guinea, and Sierra Leone. Over 120 volunteers plus an additional 109 motorbike drivers &lt;a href=&quot;http://www.missingmaps.org/blog/2017/01/07/gps-tracks/&quot;&gt;traveled 72,000 km&lt;/a&gt; visiting some of the most vulnerable communities in West Africa.&lt;/p&gt;
+
+&lt;p&gt;We started the West Africa project because information gaps in available data made it more difficult to combat Ebola. Accurate maps play a critical role in understanding human communities, especially for populations at risk. The lack of detailed maps for West Africa posed a problem during the 2014 Ebola crisis; contact tracing was much more difficult without accurate names and locations for all of the villages, particularly in the border areas.&lt;/p&gt;
+
+&lt;p&gt;The mapping project involved five processes, which consisted of tech development, a mapping hub, a rapid assessment survey, detailed community mapping, and community engagement.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/project_phases.png&quot;&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/project_phases_lowres.png&quot; alt=&quot;Project Phases&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;caption&quot;&gt;Project Phases. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Before the field work, we estimated that there were about 5,000 communities in the target area (based off of OpenStreetMap data). When we actually got on the ground, however, our volunteers visited 7,000 communities. Planning and logistics were a real challenge for this project - here’s what 7,000 communities look like across the area:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-targetcomms.jpg&quot; alt=&quot;target comms&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Project area and communities visited for rapid assessment and detailed mapping. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;tech-development&quot;&gt;Tech Development&lt;/h2&gt;
+
+&lt;p&gt;Our standard mapping tools consist of Android phones, OpenDataKit and &lt;a href=&quot;http://openmapkit.org&quot;&gt;OpenMapKit&lt;/a&gt; apps, and &lt;a href=&quot;http://fieldpapers.org&quot;&gt;Field Papers&lt;/a&gt;. These apps are cloud-based and most of the enormous project area lacked connectivity (data signals and wifi). We know this would be a real challenge; without a signal, volunteers can’t upload surveys and staff can’t monitor progress or do troubleshooting. To address this issue, we developed &lt;a href=&quot;http&quot;&gt;Portable OpenStreetMap&lt;/a&gt; or POSM, a portable offline server. POSM enables us to do our full workflow offline and gave field team leaders a way to gather and push data in areas where there is no connectivity.&lt;/p&gt;
+
+&lt;p&gt;Here’s how POSM works:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/posm_forblog.jpg&quot; alt=&quot;POSM: more than just a cute name&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;POSM workflow. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;All of our code is available on GitHub, so please contribute as we continue to improve our mapping tools! &lt;a href=&quot;https://github.com/AmericanRedCross/posm&quot;&gt;https://github.com/AmericanRedCross/posm&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mapping-hub-and-community-engagement&quot;&gt;Mapping Hub and Community Engagement&lt;/h2&gt;
+
+&lt;p&gt;A mapping hub was established in Guéckédou, Guinea, which served as an operations base and a community engagement facility. Local GIS staff used the mapping hub as a central location to clean incoming data and interact with the local community, building capacity in both the use of OpenStreetMap and general computer, technical, and language skills. POSM also allowed the staff and volunteers to trace features into OpenStreetMap in an offline environment. This process is highlighted &lt;a href=&quot;https://hi.stamen.com/merging-offline-edits-with-the-posm-replay-tool-2f39a4410d2a#.owg36t8sy&quot;&gt;here&lt;/a&gt;. Through partners in each country, local OSM groups formed to continue mapping communities both inside and outside of the initial project area:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://twitter.com/osmliberia&quot;&gt;&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmliberia.jpg&quot; alt=&quot;Pump&quot; style=&quot;height:100px; margin-left:15px;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://twitter.com/osmguinea&quot;&gt;&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmguinea.jpg&quot; alt=&quot;Pump&quot; style=&quot;height:100px; margin-left:15px;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://twitter.com/osmsierraleone&quot;&gt;&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/osmsl.jpg&quot; alt=&quot;Pump&quot; style=&quot;height:100px; margin-left:15px;&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;rapid-assessment-and-detailed-community-mapping&quot;&gt;Rapid Assessment and Detailed Community Mapping&lt;/h2&gt;
+
+&lt;p&gt;After initial training in ODK Collect and OpenMapKit use, the project began with a rapid assessment survey where volunteers visited every community within a distance of 15km of the Liberia, Guinea, and Sierra Leone borders. The survey consisted of questions related to access to health facilities, access to markets, access to clean drinking water, as well as inquired about the community’s experience to natural disasters in recent years. These questions were used to create a vulnerability index for all 7,000 communities in the project area.&lt;/p&gt;
+
+&lt;p&gt;Using the vulnerability index and major population centers, 104 communities were selected for detailed mapping; 26 in Liberia, 41 in Guinea, and 37 in Sierra Leone. Volunteers traced buildings and roads into OpenStreetMap and returned to these communities to map water points, schools, and and general points of interest. Using OpenMapKit, 300 health facilities, 400 education facilities, 3,500 water points, and over 12,000 points of interest were all added to OpenStreetMap. Data that was collected was reviewed for accuracy &lt;a href=&quot;https://github.com/AmericanRedCross/workflows/blob/master/west-africa_data-cleaning.md&quot;&gt;(workflow can be found on GitHub&lt;/a&gt; and uploaded to OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;Based on the data collected and the communities visited, roughly 800 &lt;code class=&quot;highlighter-rouge&quot;&gt;fixme&lt;/code&gt; location and name tags were removed from the project area in OpenStreetMap. Many of what appeared to be communities were actually seasonal farms or long abandoned villages. Many of the &lt;code class=&quot;highlighter-rouge&quot;&gt;fixme&lt;/code&gt; tags marked communities that were based on out-of-date maps and government data that was over 50 years old.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-pump.jpg&quot; alt=&quot;Pump&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Volunteer mapping a water pump during the detailed mapping phase. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;want-to-learn-more&quot;&gt;Want to learn more?&lt;/h2&gt;
+&lt;p&gt;All of the data we collected is available for use on the &lt;a href=&quot;https://data.humdata.org/dataset/american-red-cross-west-africa-project&quot;&gt;Humanitarian Data Exchange&lt;/a&gt; and on OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;For more background on the West Africa Project check out some of our earlier blog posts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/&quot;&gt;Field Mapping at Scale in West Africa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.missingmaps.org/blog/2016/06/28/border-country/&quot;&gt;Without Frontiers in Border Country&lt;/a&gt; - A post by Rupert Allan with Missing Maps partner MSF, who helped train volunteers in Sierra Leone&lt;/li&gt;
+  &lt;li&gt;Reflections from our Mapping Hub Lead David Luswata &lt;a href=&quot;http://www.missingmaps.org/blog/2016/07/11/trends-of-transformation/&quot;&gt;Trends of Transformation by Mapping in West Africa&lt;/a&gt; and &lt;a href=&quot;http://www.missingmaps.org/blog/2016/08/02/mapping-every-detail/&quot;&gt;Mapping Every Detail&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Check out some of the analysis already done with the data we collected: &lt;a href=&quot;http://www.missingmaps.org/blog/2017/01/06/opensignal-data/&quot;&gt;Mapping OpenSignal Data&lt;/a&gt; and &lt;a href=&quot;http://www.missingmaps.org/blog/2017/01/07/gps-tracks/&quot;&gt;Visualizing GPX tracks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve also posted pictures from motorbikes and vehicles used in the project to &lt;a href=&quot;https://www.mapillary.com/map/im/3hlhf5HEBwR_9XzMb91Rww&quot;&gt;Mapillary&lt;/a&gt;, so take a look through the 100 GB of photos that we uploaded!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-motorbike.jpg&quot; alt=&quot;motorbike&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;A Mapillary image captured from a volunteer on motorbike. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Again, this project could not have been completed without the tireless efforts of the 126 Red Cross volunteers who, equipped with a phone and a humanitarian spirit, helped put people on the map. THANKS to everyone who contributed to the project!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/westAfrica-team.jpg&quot; alt=&quot;Team&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Field team leader discussing plans with volunteers in Liberia. CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Matthew Gibb, Emily Eros</name></author><category term="blog" /><category term="West Africa" /><category term="Ebola" /><category term="OpenMapKit" /><category term="POSM" /><summary type="html">Wrapping up our largest undertaking since the start of the Missing Maps project was in West Africa. Covering an area the size of Switzerland, volunteers in Liberia, Guinea, and Sierra Leone visited over 7,000 communities in an area that saw the worst of the Ebola crisis in 2014 and 2015.</summary></entry><entry xml:lang="en"><title type="html">Two Year Update</title><link href="/blog/2017/01/18/two-year-update/" rel="alternate" type="text/html" title="Two Year Update" /><published>2017-01-18T00:00:00-05:00</published><updated>2017-01-18T00:00:00-05:00</updated><id>/blog/2017/01/18/two-year-update</id><content type="html" xml:base="/blog/2017/01/18/two-year-update/">&lt;p&gt;Missing Maps had its two year anniversary back in November, coinciding with &lt;a href=&quot;http://www.missingmaps.org/blog/2016/11/28/osmgeoweek-thankyou/&quot;&gt;OSMGeoWeek&lt;/a&gt;. Over those two years, the Missing Maps process has led volunteers to build out a better map through &lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;, and the vision behind it has become an integral part of how we as Missing Maps members approach our work.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-members&quot;&gt;New Members&lt;/h2&gt;
+
+&lt;p&gt;Since its launch in 2014, the Missing Maps partnership has grown from four original partners to a large and committed community of NGOs, academic institutions, companies, and most of all, individual mappers. Since our launch, we’ve added some amazing new members, all of whom have committed to the goals and ethics of Missing Maps.:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;http://www.cartong.org/&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/cartong_logo.png&quot; alt=&quot;cartong logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.rodekruis.nl/&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/nlrc_logo.jpg&quot; alt=&quot;netherlands red cross&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.clintonhealthaccess.org/&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/chai-logo.svg&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; alt=&quot;chia-logo&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;http://www.geog.uni-heidelberg.de/gis/&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/hgis_logo.png&quot; alt=&quot;hgis-logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://www.concern.net/category/world-region/europe/uk&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/concern_logo.png&quot; alt=&quot;concern-logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://programs.gwu.edu/graduate/geographical-information-systems&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/gwu_logo.svg&quot; alt=&quot;george washington -logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://cadasta.org&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/cadasta_logo.png&quot; alt=&quot;cadasta logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://padf.org&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/padf_logo.png&quot; alt=&quot;padf logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://youthmappers.org&quot;&gt;
+  &lt;img src=&quot;/assets/graphics/content/logos/ym_logo.png&quot; alt=&quot;youthmappers logo&quot; style=&quot;width:140px;border:none;padding-left:5px;&quot; /&gt;
+&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Over the past two years, we registered thousands of users and held mapathons in 47 countries! Many groups hosted regular &lt;a href=&quot;http://missingmaps.org/events&quot;&gt;events&lt;/a&gt;, with mapathons held monthly in London, Prague, and DC.&lt;/p&gt;
+
+&lt;h2 id=&quot;success&quot;&gt;Success&lt;/h2&gt;
+
+&lt;p&gt;A highlight of 2016 was conducting extensive field mapping with local volunteers in the border areas of &lt;a href=&quot;http://www.missingmaps.org/blog/2016/04/25/west-africa-mapping-hub-launch/&quot;&gt;West Africa&lt;/a&gt;. They completed field surveys in 7,200 villages and added health facilities, water points, and community resources to OpenStreetMap.&lt;/p&gt;
+
+&lt;p&gt;Remote mappers played a significant role in helping save lives in the Democratic Republic of the Congo. During a &lt;a href=&quot;https://www.ft.com/content/7a6df79c-c139-11e6-81c2-f57d90f6741a&quot;&gt;yellow fever emergency response&lt;/a&gt;, mapped data aided planning and logistics to vaccinate 700,000 people.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.missingmaps.org/blog/2016/07/14/mapswipe/&quot;&gt;MapSwipe&lt;/a&gt; app was also launched in 2016. Using fast satellite image classification on mobile devices, users can rapidly identify population clusters to better target mapping. So far, over 13,000 users have identified over 9 million features.&lt;/p&gt;
+
+&lt;h2 id=&quot;thank-you&quot;&gt;Thank YOU!&lt;/h2&gt;
+
+&lt;p&gt;It’s amazing for us to look back and see how much we’ve accomplished together as a community. On behalf of all the Missing Maps partners, thanks to each and every volunteer who’s helped with the mapping and contributed to the project - we couldn’t do it without you!&lt;/p&gt;
+
+&lt;h2 id=&quot;one-pager&quot;&gt;One Pager&lt;/h2&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps_onepage_jan17-USLetter.png&quot; alt=&quot;two year update&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Two-Year Update. CC-BY Missing Maps&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="update" /><category term="stats" /><summary type="html">Since its launch in 2014, Missing Maps has engaged almost 20,000 mappers, helped 430+ public mapathons, put 29 million people on the map, and mapped an area equal to the size of Sweden. We've added many new partners to help try and map the world. Thanks to everyone out there who's been a part of this amazing project!</summary></entry><entry xml:lang="en"><title type="html">Roads less traveled… all 72,000 km of them</title><link href="/blog/2017/01/07/gps-tracks/" rel="alternate" type="text/html" title="Roads less traveled... all 72,000 km of them" /><published>2017-01-07T00:00:00-05:00</published><updated>2017-01-07T00:00:00-05:00</updated><id>/blog/2017/01/07/gps-tracks</id><content type="html" xml:base="/blog/2017/01/07/gps-tracks/">&lt;p&gt;While our Red Cross volunteers were out mapping in West Africa, we asked them to record their GPS tracks using the &lt;a href=&quot;http://osmand.net/&quot;&gt;OsmAnd&lt;/a&gt; Android application. Now that fieldwork is complete, we finally had a chance to look through the hundreds of GPX files that they recorded.&lt;/p&gt;
+
+&lt;p&gt;The first step was merging the many, many GPX files. There were 72,000 km of tracks recorded - equal to circling the Earth 1.8 times! Since the dataset was so large, the best way was to &lt;a href=&quot;https://github.com/ptrv/gpx2spatialite&quot;&gt;combine the files into a spatialite database&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Next, we cleaned up the data. This involved removing any GPX track points with a speed higher than 100 kph (which only happened when a staff member got on a flight and forgot to put their phone on airplane mode) and any track points that were floating in weird places (we had some points appear in Kenya and null island - these were from when the GPS on a phone was first turned on and was trying to search for a signal).&lt;/p&gt;
+
+&lt;p&gt;We mapped the data to see the full extent of how much ground the volunteers covered:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/gpx-tracks-compressed.png&quot;&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/gpx-tracks-compressed.png&quot; /&gt;&lt;/a&gt;
+&lt;p class=&quot;caption&quot;&gt;GPS tracks in West Africa, with snapshot of local area. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;completing-the-road-network-in-osm&quot;&gt;Completing the road network in OSM&lt;/h2&gt;
+
+&lt;p&gt;These data aren’t just pretty; they’re also useful for adding roads to OSM. Several areas in the border regions have really cloudy satellite imagery and we wouldn’t be able to trace the roads if it weren’t for the GPX data.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/trace_roads.png&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;GPX data lets us get underneath the clouds to add roads to OpenStreetMap (OSM). Track points are shown in fuschia. CC-BY American Red Cross&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I used the GPX data to complete the road network. First, I needed to figure out which of the tracks were for roads that already existed in OSM. I did this by downloading the existing road data and calculating how far each GPX point was from an existing road.&lt;/p&gt;
+
+&lt;p&gt;There are several ways to do this. I did it by downloading the country-level OSM-PBF file from &lt;a href=&quot;http://download.geofabrik.de/&quot;&gt;GeoFabrik&lt;/a&gt; (these are faster to download than shapefiles), &lt;a href=&quot;https://github.com/AmericanRedCross/workflows/blob/master/converting_pbf_into_spatialite.md&quot;&gt;converting this into a spatialite database&lt;/a&gt;, and filtering the data by &lt;code class=&quot;highlighter-rouge&quot;&gt;highway=*&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The GPX data and the roads data both had to be saved in an equal area projection so that the distance calculations would be accurate.&lt;/p&gt;
+
+&lt;p&gt;Within QGIS, I used the v.distance function in GRASS. It’s slightly hidden. You can find it under:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Processing -&amp;gt; Toolbox -&amp;gt; GRASS -&amp;gt; v.distance&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This iterated through each of the GPX track points to determine the closest road and the distance between the road and the point. I took the output and filtered the data to only keep track points that were over 100 metres from an existing road. This left me with a set of points that needed to be traced into OSM, which I did using JOSM; you can add in a GPX track points layer on top of existing data and imagery.&lt;/p&gt;
+
+&lt;p&gt;Three days, 8 episodes of Game of Thrones, and one sore arm later, the tracing was complete. Through the volunteers’ efforts, we added about 600 km of roads into OSM, connecting some of the most inaccessible and remote communities in West Africa.&lt;/p&gt;
+
+&lt;p&gt;Thanks to all the volunteers who made this possible!&lt;/p&gt;</content><author><name>Emily Eros</name></author><category term="blog" /><category term="West Africa" /><category term="Field Mapping" /><category term="Red Cross" /><category term="GPS" /><category term="osmAnd" /><category term="roads" /><summary type="html">Red Cross volunteers on motorbikes logged 72,000 km of GPS tracks during border mapping in West Africa. We used these data to get under the clouds and add roads to OSM that can't be seen from satellite imagery. These roads connect some of the most remote communities in the region. Here's how we processed the dataset and what we were able to do with it.</summary></entry><entry xml:lang="en"><title type="html">Mapping cell phone signals</title><link href="/blog/2017/01/06/opensignal-data/" rel="alternate" type="text/html" title="Mapping cell phone signals" /><published>2017-01-06T00:00:00-05:00</published><updated>2017-01-06T00:00:00-05:00</updated><id>/blog/2017/01/06/opensignal-data</id><content type="html" xml:base="/blog/2017/01/06/opensignal-data/">&lt;h1 id=&quot;mapping-cell-phone-signals-with-opensignal&quot;&gt;Mapping cell phone signals with OpenSignal&lt;/h1&gt;
+
+&lt;p&gt;This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also asked the volunteers to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information.&lt;/p&gt;
+
+&lt;p&gt;Connectivity is very poor in this region, and volunteers often had to travel several hours to different cities if they wanted to be able to use their phones to make calls. By collecting signal strength data, we hope to make it easier for people to know where there is a useable cell phone signal.&lt;/p&gt;
+
+&lt;p&gt;Now that the fieldwork has finished, we’ve had a chance to start going through all this data to see what connectivity looks like in West Africa. We haven’t come across much about working with OpenSignal data, so this post documents our workflow for using the data, the challenges we had, and our results.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-merging-and-cleaning-the-data&quot;&gt;Getting, merging, and cleaning the data&lt;/h2&gt;
+
+&lt;p&gt;For this project, we used 14 Samsung Galaxy S5 phones and about 100 Blu Advance 5.0 phones. We’ve tried a lot of different phones in the field, and the Blu’s are our favourite so far - cheap, hardy, easy to use, and they have a reliable GPS signal.&lt;/p&gt;
+
+&lt;p&gt;We loaded OpenSignal onto all of the phones before the fieldwork began, then downloaded the data at the end of the project, following the &lt;a href=&quot;https://opensignal.com/blog/2015/06/08/updated-data-collection-format/&quot;&gt;instructions from OpenSignal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;OpenSignal generated three types of CSV files: wifi, speedtests, and cell signals:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/file_types.png&quot; alt=&quot;File types&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Since we only care about the cell signal strength, I put all these into a folder and then ran a quick command in Terminal to merge them:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd [folder with .csv files]&lt;/code&gt;
+ &lt;code class=&quot;highlighter-rouge&quot;&gt;cat *.csv &amp;gt; merged.csv&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The resulting file was a little strange. First, the individual files didn’t have consistent header rows - some exports had considerably more columns, and the columns didn’t match up between the different formats; the Samsung and Blu phones exported very different formats. I split the files by phone type (Samsung vs Blu) and concatenated the two batches separately, then combined them and made the columns line up. This worked out.&lt;/p&gt;
+
+&lt;p&gt;The next step was figuring what all this data means. &lt;a href=&quot;https://opensignal.com/blog/2015/06/08/updated-data-collection-format/&quot;&gt;OpenSignal’s handy post&lt;/a&gt; explained almost everything we needed to know, with one exception: signal strength was measured on different scales and had to be converted into a consistent scale. More on this below. (Note: there have been several updates to the OpenSignal app since we started the project, and the file structure may be different. We’ll play around with the latest version and post any updates later at the bottom of this post)&lt;/p&gt;
+
+&lt;p&gt;Finally, I cleaned up a few parts of the data:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Timestamps are given in Linux/Unix epoch format, measuring the number of milliseconds since 1970. I converted these to a human readable date in Microsoft Excel so I could check how often OpenSignal was recording data. I’ve read that Microsoft Excel date formats are slightly different depending on whether you’re using Windows/Mac OS, but on my Mac I actually needed to use the Windows conversion. The formula for this is:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;=(((X/1000)-(T*3600))/86400)+(DATEVALUE(&quot;1-1-1970&quot;) - DATEVALUE(&quot;1-1-1900&quot;))&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;where X is the cell with the time in epoch and T is offset from GMT time, in hours. You’ll need to change the format of those cells to a date, as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;location-inaccuracy&quot;&gt;Location inaccuracy&lt;/h3&gt;
+&lt;p&gt;The maximum location inaccuracy was almost 5 km. I discarded any records with a location inaccuracy greater than 1000 metres. This seems like a very high number to me, but it eliminated almost a quarter of my dataset, dropping it from 200,000 records down to 150,000.&lt;/p&gt;
+
+&lt;h3 id=&quot;rssi-received-signal-strength-indicator&quot;&gt;RSSI (Received Signal Strength Indicator)&lt;/h3&gt;
+&lt;p&gt;RSSI (Received Signal Strength Indicator) measures the signal strength. HOWEVER, it’s measured differently depending on the network type. For EDGE, GPRS, HSPAP, and sometimes HSDPA and HSPA, it is measured on a scale of -1 to 31. On other HSDPA and HSPA networks, it’s measured in dBm, on a scale of -113 to -51.&lt;/p&gt;
+
+&lt;p&gt;There were other instances where we had “unknown” and “out of service” networks with an RSSI of 99. I wasn’t sure if this was code for “no signal”, or if it meant that RSSI was being measured on yet another scale - the internet tells me that the RSSI max is 99 on Cisco equipment. These records added up to only 1% of the data so I just discarded them.&lt;/p&gt;
+
+&lt;p&gt;I converted the RSSI column into dBm in Excel in one fell swoop:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;=IF(RSSI&amp;lt;(-50),RSSI,IF(RSSI&amp;gt;31,&quot;&quot;,(RSSI*2-113)))&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This leaves values already measured in dBm, converts those on the -1 to 31 RSSI scale (the formula is: &lt;code class=&quot;highlighter-rouge&quot;&gt;RSSI*2 - 113 = dBm&lt;/code&gt;), and returns an empty value for anything above 31.&lt;/p&gt;
+
+&lt;p&gt;When I put this data into GIS, I coded the dBm values into signal strength categories. I found several different scales for this, so I ended up with the following “compromise”:&lt;/p&gt;
+
+&lt;p&gt;-113 to -101: Very poor&lt;br /&gt;
+-100 to -86: Weak&lt;br /&gt;
+-85 to -71: Good&lt;br /&gt;
+-70 to -51: Excellent&lt;/p&gt;
+
+&lt;h3 id=&quot;latlong&quot;&gt;Lat/long&lt;/h3&gt;
+
+&lt;p&gt;Because we set the phones up in the US, I discarded any lat/long pairings taken outside of West Africa.&lt;/p&gt;
+
+&lt;p&gt;This gave me a clean dataset ready to be saved as a Windows CSV and loaded into GIS.&lt;/p&gt;
+
+&lt;p&gt;A few comments about this data:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;It would be really helpful if OpenSignal data contained the IMEI number of the phone. This would let me sort through the data and group by phone, to better understand how much data was recorded on a phone, which might be split into several files.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data cleaning would have been easier if OpenSignal data was set to export with consistent column headers. (Note: This may have something to do with the different phones we used, or may have changed sin new versions of the app)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The number of records seems really low. With over 100 phones being used for weeks and weeks, I would expect more than 150,000 usable records. This didn’t make sense so I calculated the interval between records. This didn’t make any sense to me - there wasn’t a consistent interval between pings, and it looks like several pings were recorded at the exact same time, then there would be a huge gap (hours, days) until the next ping. I didn’t find any documentation about this, so I can’t tell if this means that OpenSignal wasn’t looking for a signal (and why not?), or if there was no signal at all (which is still important to record), or if perhaps the phone was overwriting old data (but the file sizes didn’t seem to have a cut-off point, so this is unlikely). This seemed to be a major problem with using OpenSignal; the data would have much more value if we had a record every 5 mins, or something like that. More on this later.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The cleaned dataset (as a shapefile) and QGIS style file are &lt;a href=&quot;https://www.dropbox.com/s/e4piya18hburba0/opensignaldata.zip?dl=0&quot;&gt;here&lt;/a&gt; in case anyone wants to play with them.&lt;/p&gt;
+
+&lt;h2 id=&quot;gis-analysis-and-data-issues&quot;&gt;GIS analysis… and data issues&lt;/h2&gt;
+
+&lt;p&gt;I loaded the CSV file into GIS and converted it into an equal-area projection (to enable accurate distance/area calculations).&lt;/p&gt;
+
+&lt;p&gt;Again, the data look very sparse compared to the amount of volunteers and time spent in the field. The image below shows the OpenSignal data overlaid on GPX tracks collected by volunteers (shown in grey) for the West African region. The OpenSignal data covers some main highways across the region and some clusters in certain cities, but it’s extremely sparse compared to what I was expecting.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/signal_strength.png&quot; alt=&quot;Signal strength&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The settings on the OpenSignal app explain, “Data is collected when the app is open and at a low rate when it is closed (around 10 signal readings per hour).”&lt;/p&gt;
+
+&lt;p&gt;That’s not what I see in the West Africa data. The snippet below contains data from a few different files. In each of these files, a phone collects data briefly when set up in late March… then nothing until a month later, at the end of April. When the phones are logging data, they are doing so at the expected rate of about 10x per hour… it’s just that there are huge gaps between the readings.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/timestamps.png&quot; alt=&quot;time stamps&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We reached out to the OpenSignal team to chat about this and learned that the data collection engine had changed and a new app version was released around the same time as we began our fieldwork. We’ll play around with the new one and see how the data records look.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt;Next steps for the data involve turning the OpenSignal data into a raster (ie pixellated) grid that covers the area, turning it into a full-coverage surface rather than a collection of points. There isn’t enough data to do this comprehensively for the region, as we’d hoped, but we can analyze local areas where the dataset is larger.&lt;/p&gt;
+
+&lt;p&gt;To do this, we zoomed in to an area in the Eastern Province of Sierra Leone with a high density of signal recordings. We took the RSSI values for these recordings and then performed &lt;a href=&quot;http://www.qgistutorials.com/en/docs/interpolating_point_data.html&quot;&gt;kriging&lt;/a&gt; using the inverse distance weighting method. What this means: we have a set of points and we want to fill in the gaps between them to predict what the cell signal strength will be in other areas nearby. When doing this, we set a distance limit on how far away the kriging will examine. Too small, and we won’t learn that much. Too large, and the results won’t be very accurate. Even with an appropriate distance limit, predictions won’t be perfect because we aren’t factoring in topography or other things that might affect signal strength. But this is still enough to help understand the gaps in the data for a local area. The output from the kriging is a grid of cells, each of which has a predicted RSSI value. This helps us to understand connectivity “hotspots” in the local area.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/kriging.png&quot; alt=&quot;IDW kriging surface. Cell size is set to 10m&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;CC-BY American Red Cross.&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Distributing maps like these would be helpful for local Red Cross volunteers and community members in general, who often end up traveling between cities in order to make a phone call.&lt;/p&gt;
+
+&lt;p&gt;These data could be combined with population datasets like &lt;a href=&quot;http://www.worldpop.org.uk/&quot;&gt;WorldPop&lt;/a&gt; to examine populations groups with (and without) access to cell connectivity.&lt;/p&gt;</content><author><name>Emily Eros</name></author><category term="blog" /><category term="Red Cross" /><category term="Field Mapping" /><category term="West Africa" /><category term="connectivity" /><category term="OpenSignal" /><summary type="html">This past spring/summer, over 100 Red Cross volunteers conducted field mapping in the border regions of Guinea, Liberia, and Sierra Leone. In addition to the actual mapping, we also set the volunteers' phones to record their GPS tracks each day, and we set their phones to automatically collect cell signal strength data using OpenSignal, an app which crowdsources this information. We haven't come across much about working with OpenSignal data, so this post documents our workflow for using the data, the challenges we had, and our results.</summary></entry><entry xml:lang="en"><title type="html">OSM GeoWeek Thank You!</title><link href="/blog/2016/11/28/osmgeoweek-thankyou/" rel="alternate" type="text/html" title="OSM GeoWeek Thank You!" /><published>2016-11-28T00:00:00-05:00</published><updated>2016-11-28T00:00:00-05:00</updated><id>/blog/2016/11/28/osmgeoweek-thankyou</id><content type="html" xml:base="/blog/2016/11/28/osmgeoweek-thankyou/">&lt;p&gt;Thank you for your incredible efforts organizing this year’s OSM GeoWeek! In total 140 public and 150 private events took place in 42 countries.  We made 1 million edits and added 861,865 buildings and 145,030 km of roads to OSM. Thanks to your hard work, almost 4,000 new mappers joined the OSM community!&lt;/p&gt;
+
+&lt;p&gt;We would love to hear about your event. If you have time, please fill out &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScKG9bYHIcPdHSnT3Yf700LC0evzCqs-ihI5rkjaAopdcCMOg/viewform&quot;&gt;this form&lt;/a&gt; to let us know what went well, what went poorly, and if you have any lessons you’d like to pass on to your fellow organizers. If you would like to share pictures, please add them with a short blurb to HOT’s Flickr located here.&lt;/p&gt;
+
+&lt;p&gt;It’s a great idea to follow-up with your participants (if you haven’t already). Here are some helpful reminders you can include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Give any amount to HOT’s end you year &lt;a href=&quot;https://donate.hotosm.org&quot;&gt;donation campaign&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;#GivingTuesday is November 29th and is a worldwide day of giving. On the site, you can set up a personal Fundraising page to share with your mapathon participants.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sign up for the &lt;a href=&quot;http://eepurl.com/bC7JBj&quot;&gt;HOT Newsletter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;http://communicatoremail.com/F/QTwz9iBiyP0vavUEMRJ6SQ/&quot;&gt;Missing Maps emails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow us on Twitter at &lt;a href=&quot;https://twitter.com/hotosm&quot;&gt;@hotosm&lt;/a&gt; &lt;a href=&quot;https://twitter.com/themissingmaps&quot;&gt;@themissingmaps&lt;/a&gt; &lt;a href=&quot;https://twitter.com/youthmappers&quot;&gt;@youthmappers&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MapGive&quot;&gt;@MapGive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow us &lt;a href=&quot;https://www.facebook.com/hotosm/&quot;&gt;HOT&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/MissingMapsProject/&quot;&gt;Missing Maps&lt;/a&gt; on Facebook&lt;/li&gt;
+  &lt;li&gt;Keep mapping at &lt;a href=&quot;http://tasks.hotosm.org&quot;&gt;tasks.hotosm.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Put OSM GeoWeek on your calendar for the week of November 12-18, 2017!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Again, from all of us on the OSM GeoWeek organizing team, thank you so much for your planning, mapping, and continued support!&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/missingmaps-blog_20161128_geoweek.jpg&quot; alt=&quot;GeoWeek&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;6th grade students participating in a geography workshop in India. Photo Credit: &lt;a href=&quot;http://www.openstreetmap.org/user/upendrakarukonda/diary/39889&quot; target=&quot;_blank&quot;&gt;upendrakarukonda.&lt;/a&gt;&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Rachel Levine</name></author><category term="blog" /><category term="OSMGeoWeek mapathon youthmappers mapgive missingmaps 100mapathons" /><summary type="html">Thank you for your incredible efforts organizing this year's OSM GeoWeek! In total 140 public and 150 private events took place in 42 countries.  We made 1 million edits and added 861,865 buildings and 145,030 km of roads to OSM. Thanks to your hard work, almost 4,000 new mappers joined the OSM community!</summary></entry><entry xml:lang="en"><title type="html">Facebook Collaboration</title><link href="/blog/2016/11/16/facebook/" rel="alternate" type="text/html" title="Facebook Collaboration" /><published>2016-11-16T00:00:00-05:00</published><updated>2016-11-16T00:00:00-05:00</updated><id>/blog/2016/11/16/facebook</id><content type="html" xml:base="/blog/2016/11/16/facebook/">&lt;p&gt;At the core of the Missing Maps project is our desire to create detailed street and place maps of the billions of people vulnerable people not represented on the map. Missing Maps engages private and public sector partners to open data sets for use by the greater &lt;a href=&quot;http://osm.org&quot;&gt;OpenStreetMap&lt;/a&gt; Community. Over the past two years, Missing Maps, engaged over 18,000 volunteers to make millions of edits to &lt;a href=&quot;http://osm.org&quot;&gt;OpenStreetMap&lt;/a&gt; putting over 20 million people on the map. Throughout our work we’ve constantly tried to figure out faster more efficient ways of using volunteer mapping time. Recently with the introduction of &lt;a href=&quot;http://mapswipe.org&quot;&gt;MapSwipe&lt;/a&gt; we have a great tool to focus our mapping efforts.&lt;/p&gt;
+
+&lt;p&gt;In our humanitarian mission we are data omnivores, within licensing restrictions of course, constantly looking for datasets that can aid our mission and the larger mapping community. Collaborating with Facebook is an obvious step for us to take. Using the data created by Facebook volunteers will waste less time checking out a task to find an area with nothing to map. Currently, volunteers scan huge areas to find rural hamlets and villages to effectively map roads and buildings to prevent malaria, vaccinate for measles, or prepare communities for the effect of disasters. This mapping is not efficient and waste valuable volunteer time.&lt;/p&gt;
+
+&lt;p&gt;The data for Malawi was already used during OSMGeoWeek to help map over 1 million people in Blantyre, Malawi. And will help the Missing Maps partners better focus are mapping in the next few months as we strive to completely remotely map Malawi to support the many humanitarian projects there.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;https://arcmaps.s3.amazonaws.com/share/blog-pictures/blantyre_buildings.gif&quot; alt=&quot;new hashtag&quot; /&gt;
+&lt;p class=&quot;caption&quot;&gt;Mapping by volunteers in Blantyre, Malawi during OSM GeoWeek 2016&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Facebook did a great &lt;a href=&quot;https://code.facebook.com/posts/596471193873876&quot;&gt;post&lt;/a&gt; about how they created the dataset. To generate the data, Facebook applied techniques from computer vision to satellite imagery. In so doing, they created the most detailed population estimates available to date in these countries. This effort demonstrates the immense power of artificial intelligence to produce insights for the public good. Read more about the technology side on Facebook’s engineering blog. In partnering with Facebook Missing Maps is making these valuable datasets available for free. Facebook provided data for Haiti, Malawi, South Africa, Sri Lanka, and Ghana.&lt;/p&gt;
+
+&lt;p&gt;All of the data will always be available from the &lt;a href=&quot;https://ciesin.columbia.edu/data/hrsl/&quot;&gt;Columbia Earth Institute&lt;/a&gt;. To make the data more useful for OpenStreetMap use we made a global &lt;a href=&quot;https://api.mapbox.com/styles/v1/americanredcross/civoaaxp7001m2krvaz5rk1k3/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW1lcmljYW5yZWRjcm9zcyIsImEiOiJzdHVRWjA4In0.bnfdwZhKX8tQeMkwY-kknQ&quot;&gt;TMS layer&lt;/a&gt;. If and when Facebook completes additional countries we will add the data to this TMS.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot; src=&quot;https://api.mapbox.com/styles/v1/americanredcross/civlbwtjf008y2ko41th4vv19.html?title=true&amp;amp;access_token=pk.eyJ1IjoiYW1lcmljYW5yZWRjcm9zcyIsImEiOiJzdHVRWjA4In0.bnfdwZhKX8tQeMkwY-kknQ#11.719028716230124/18.328376808396797/-73.82225852187058/0&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;</content><author><name>Dale Kunce</name></author><category term="blog" /><category term="facebook data population RedCross" /><summary type="html">In our humanitarian mission we are data omnivores, within licensing restrictions of course, constantly looking for datasets that can aid our mission and the larger mapping community. Collaborating with Facebook is an obvious step for us to take. Using the data created by Facebook volunteers will waste less time checking out a task to find an area with nothing to map.</summary></entry></feed>
